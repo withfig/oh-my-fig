@@ -1,6 +1,6 @@
 # Oh My Fig
 
-An incredibly fast, simple, and opionated plugin by the [Fig](https://fig.io?ref=github) to make editing in the terminal feel more natural
+An incredibly fast, simple, and opionated plugin by the [Fig](https://fig.io?ref=github) team to make editing in the terminal feel more natural
 
 
 ### What we do
