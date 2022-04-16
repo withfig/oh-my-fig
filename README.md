@@ -2,7 +2,7 @@
 
 > Natural text and cursor editing for the terminal
 
-This incredibly fast, simple, and opionated plugin by the [Fig](https://fig.io?ref=github) team makes it feel like you're typing in Google or your editor, rather than something frmo the 1970s...
+A fast, simple, and opionated plugin by the [Fig](https://fig.io?ref=github) team to make typing in the terminal feel like you're typing in Google or your editor!
 
 
 ![CleanShot 2022-04-15 at 21 22 12](https://user-images.githubusercontent.com/4949076/163661182-bcc9f718-9ffd-40d3-b3b6-4b3f40de25c3.gif)
